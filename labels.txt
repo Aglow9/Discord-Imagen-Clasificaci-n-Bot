@@ -1,0 +1,3 @@
+0 perro
+1 conejo
+2 gatos
